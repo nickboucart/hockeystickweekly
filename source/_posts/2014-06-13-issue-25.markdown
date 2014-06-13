@@ -1,0 +1,38 @@
+---
+layout: post
+title: Issue 25  - How To Launch A Product, Make Money AND Get Incredible Feedback and more inspiration to grow your tech business
+date: 2014-06-13 11:49:49 +0200
+comments: false
+sidebar: false
+categories: 
+---
+## How To Launch A Product, Make Money AND Get Incredible Feedback
+This is a report from the early stages of MailCharts. The guys report on how they used [Product Hunt](http://www.producthunt.com/) to launch their initial product. Product Hunt is a community of people interested in trying out new stuff. I personally had never heard of the platform, but will surely find an excuse to try it out some time soon.
+
+Full article: http://carlsednaoui.com/post/86600844727/how-to-launch-a-product-make-money-and-get-incredible
+
+<hr/>
+## Slides: Why Content Marketing Fails By Rand Fishkin
+I have posted links about content marketing before, and I'll do it agian. But before you go all crazy about generating content, you should understand how content marketing works. This slide deck is both funny and super-to-the-point. It shows you how content marketing really works, which is in deep contrast with how many companies think it works.
+
+Full article: http://growthhackers.com/slides/why-content-marketing-fails/
+
+<hr/>
+## That’s a nice little $40M ecommerce company you have there. Call me when it scales
+A thought provoking article about the differences between a $40M e-commerce business and a SaaS business. Main point: growing an e-commerce typically requires that you spent a lot of money on advertising. Thus, in order to grow, you'll need to spend large amounts of money to attact new customers all the time. Stop spending on ads means, stop your revenue stream. In a SaaS business, each customer you add, generates new revenue and (assuming 0% of churn) will keep on generating revenue, even if you stop your marketing efforts to acquire new customers.
+
+Full article: http://www.forentrepreneurs.com/ecommerce-cac/
+
+<hr/>
+## SaaS: How We Automated Free Trial Extensions To Increase Paid Conversions By 33%
+Great and honest experience report from the guys over at http://trak.io on what they learned from offering free trials. One of their most surprising conclusions: some users ask for an extension of the trail because they simply didn't find enough time to try out the software, but eventually did become paying customers. Great read for all you SaaS companies out there. 
+
+Full article: http://blog.trak.io/saas-how-we-automated-free-trial-extensions-to-increase-paid-conversions-by-33/
+
+<hr/>
+## Measuring the Health of Your SaaS Business: the Ultimate Metrics Guide
+As a startup/tech entrepreneur, you should already know you'll need metrics to track the progress of your startup. But what metrics to track? Users? Time on site? MRR? This article gives concrete advise on what to track and when to track during the life time of your startup. For example: if you are not yet at product/market fit, track how dissapointed people would be if you take your product away from them, and work your way towards a 40% "very dissapointed" score. 
+
+Full article: http://blog.clarity.fm/saas-analytics-metrics/
+
+<hr/>
