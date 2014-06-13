@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://http://hockeystickweekly.com//github
+title: The Hockey Stick Weekly
+subtitle: Your Weekly Dose of Inspiration for Growing your Tech Business
+author: Nick Boucart
 simple_search: https://www.google.com/search
-description:
+description: "Free weekly newsletter for the busy tech entrepreneur. We cover Cloud, SaaS, Growth Hacking and Scaling."
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: hockeystickwkly
 twitter_tweet_button: true
 
 # Google +1
@@ -94,7 +94,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-46112148-1
 
 # Facebook Like
 facebook_like: false
