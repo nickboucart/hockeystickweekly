@@ -1,0 +1,34 @@
+---
+layout: post
+title: "issue 26 - How Much Traction is Enough for Investors? and more inspiration for growth"
+date: 2014-06-22 09:46:03 +0200
+comments: true
+sidebar: false
+categories: 
+---
+## How Much Traction is Enough for Investors?
+As a startup entrepreneur, you'll talk to investors and will often here: "nice idea, but come back when you have traction". But what does that mean: "traction"? This article gives some insight in the matter, from an investor's point of view. Some examples:
+
+* Sales to-date for a priced offering
+* Average transaction size and revenue per customer
+* Customer acquisition cost
+
+Full article: http://www.alleywatch.com/2013/03/how-much-traction-is-enough-for-investors/
+
+<hr>
+## SaaS Sales Funnel: Stop Optimizing for the Wrong Customers
+Nice story about a SaaS entrepreneur who got frustrated by the fact that leads were not converting properly, although he offered free trails and the whole lot. Turned out, he wasn't attraction his __ideal__ customer: the type of customer that immediatly recognized the potential and value of your offering and that will start using your offering right away. You can optimize your landing pages and marketing site as much as you want, if you don't manage to attract __ideal__ customers, you'll always end up with low conversions and unhappy customers. 
+
+Full article: http://sixteenventures.com/saas-sales-funnel
+
+<hr>
+## The Science Behind Using Hashtags: Number, Type, and More
+The main message behind this article: Hashtags matter. If you use Twitter for any sort of communication, you should seriously consider adding hashtags to your posts to gain bigger reach. The article provides some links to tools for hash tag optimization as well.
+
+Full article: http://www.inc.com/jeff-haden/the-science-behind-using-hashtags-number-type-and-more.html
+
+<hr>
+## Construct a Lean Content Marketing Machine in 7 Steps
+Interesting slide deck by my colleague (Omar Mohout)[https://twitter.com/omohout] on how to build a content marketing machine that is both lean and effective.
+
+Full article: http://www.slideshare.net/omohout/lean-content-marketing-machine
