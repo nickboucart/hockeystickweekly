@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Issue 27 - The Lean Startup Hype: 10 Things Lean Startup Didn’t Tell You"
+date: 2014-06-24 14:35:36 +0200
+comments: true
+categories: 
+---
+## The Lean Startup Hype: 10 Things Lean Startup Didn’t Tell You
+Some really good advice for startups: lean startup is a very useful approach of building out your idea into a (hopefully) successful business. But it is no guarantee for success, nor is it easy. (I can tell, I'm coaching startups and applying it in your own context requires a lot of creativity). The author goes further into great detail on giving you tips that are fully in line with the lean startup philosophy, yet are often overlooked. I particularly like the idea of generating traction and a pipeline before even starting to build the product. Cool read!
+
+Full article: http://yanngirard.typepad.com/yanns_blog/2014/06/the-lean-startup-hype-10-things-lean-startup-didnt-tell-you.html
+
+<hr>
+## 6 free (or low cost) ways to prove your business idea is a winner
+Lean Startup urges you to test our idea before building it. This short post gives some concrete tips on how to test your idea with little to no budget. From setting up a free website on wordpress.com to selling a product you don't yet have via eBay. Should make you wonder: how will you test your next business idea?
+
+Full article: http://www.readysetstartup.com/6-free-or-low-cost-ways-to-test-your-business-idea/
+<hr>
+## The Origin of Product Hunt
+A story about building something cool over a weekend. I already posted an article about Product Hunt in the Hockey Stick Weekly earlier, today, I stumbled upon an article that describes how the platform came to be. It's amazing how little time it took to get an MVP out of the door. 
+
+Full article: https://medium.com/lets-make-things/the-origin-of-product-hunt-7acb09e2593a
+<hr>
+## How Yammer cracked the code on virality, distribution and scaling sales
+Yammer is like an intra-enterprise Twitter and was sold to Microsoft a while ago for about $1,2 billion. This short article gives some insights into the success of Yammer: "distribution is everything", "You still need humans (to sell)" are just 2 tips.
+
+Full article: http://www.whiteboardmag.com/how-yammer-cracked-the-code-on-virality-distribution-and-scaling-sales/
+
+<hr>
+## Double Your Customer Value: 7 Ways to Reduce SaaS Churn
+Churn kills SaaS companies. In this article, the guys at https://baremetrics.io share some ideas on how to fight churn: By increasing engagment and becoming part of your customer's workflow, you'll stay top of mind. Attract the right audience from the start, and you'll won't have to deal with disappointed of free-loading customers. I'm wondering how you are fighting churn?
+
+Full article: https://baremetrics.io/blog/reduce-saas-churn
