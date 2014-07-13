@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Issue 28 - How to Price Your New Product Right"
+date: 2014-07-13 20:37:21 +0200
+comments: true
+categories: 
+---
+## How to Price Your New Product Right
+Pricing is hard, especially for new products. This article gives some insights into do's and don'ts when it comes to pricing and even sheds some light on discounting. Quick read to get you thinking about your pricing. 
+
+Full article: http://www.alleywatch.com/2013/09/how-to-price-your-new-product-right/
+
+<hr>
+## The Inconvenient Truth About SaaS Hockey Stick Growth
+This one is a bit of a (shameless) plug: an article written by yours truly. If you want to grow as a SaaS company, you'll need deep pockets. This article describes why and shows some simulations. Bottom line: cash flow is king in a SaaS environment.
+
+Full article: http://www.nebucom.be/blog/2014/07/07/inconvenient-truth-saas-hockeystick-growth/
+<hr>
+## The Essential Guide to Growing Your Startup with Inbound Marketing [SlideShare]
+Super nice (and long) slide share that explains inbound marketing. This article discussed content marketing and how content/market fit provides you with a machine that brings on new visits day in day out. If you're a startup, you should start building your marketing machine the moment you start building your product.
+
+Full article: http://blog.hubspot.com/marketing/grow-startup-guide
+<hr>
+## 5 things US startups need to understand to succeed in the EU
+Being a European myself, I can only agree with this article: it's not because you can make it in the US, that you can make it in Europe. Europe is not a market, it's 28 markets, each with own language, customs and legislation. 
+
+Full article: http://thenextweb.com/entrepreneur/2014/07/10/5-things-us-startups-need-understand-succeed-eu/
+<hr>
+## 4 Mistakes New Product Managers Make
+The software product manager has a tough job: out of those gazillion to-do's and feature requests, she needs to filter those that actually matter for the business. This article explains 4 common mistakes product managers make. Interesting read.
+
+Full article: http://dev.hubspot.com/blog/4-mistakes-new-product-managers-make
