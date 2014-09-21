@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "issue-29 - Advanced Twitter Marketing Techniques"
+title: "Issue-29 - Advanced Twitter Marketing Techniques"
 date: 2014-09-21 20:45:10 +0200
 comments: true
 categories: 
