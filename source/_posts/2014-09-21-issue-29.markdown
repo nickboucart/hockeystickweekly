@@ -1,0 +1,46 @@
+---
+layout: post
+title: "issue-29 - Advanced Twitter Marketing Techniques"
+date: 2014-09-21 20:45:10 +0200
+comments: true
+categories: 
+---
+Hi there,
+
+It's been a while since last newsletter. Holidays are over now and I'll be compiling Hockey Stick Weekly's again as per usual.
+
+So, without further ado, the best articles I read last week full of tips for growing and scaling your startup.
+
+## Advanced Twitter Marketing Techniques
+
+Did you know that links appearing at the beginning of a tweet have a higher click-though rate than links near the end of a tweet? I didn't know that, but recent research surfaced this finding.  Other advanced techniques for you twitter marketeers include "go multimedia" or "using the advanced search". 
+
+Full article: https://blog.kissmetrics.com/advanced-twitter-marketing-techniques/
+<hr>
+
+## 6 Reasons why outsourcing early sw development is hard for startups
+Many non-technical founders often look at outsourcing for building their MVP, but that is easier said than done. This article gives you six reasons why.
+
+Full article: http://www.nebucom.be/blog/2014/09/03/6-reasons-why-outsourcing-early-software-product-development-for-tech-startup-is-a-tough-one/
+<hr>
+
+## Shortening the time to WOW
+I discussed the concept of "time to wow" in previous episodes of the HSW [Check out Issue 19](http://hockeystickweekly.com/blog/2014/04/21/issue-19/). This article discusses 4 tactics you can use to shorten the time to WOW, and goes through great length to illustrate these with real life examples from companies like Netflix, Foursquare and Stripe.
+
+Full article: http://appcues.com/academy/wow-tactics/
+
+## Field guide for Product Managers
+Being a product manager in a software company, and especially in a startup, is tough: everybody has suggestions to make the product better, faster, more features etc etc. One of your jobs is to say no to all this, except to those that make a big difference. This article interviews a number of product managers and provides lots of insights in how different product managers do it.
+
+Full article: http://blog.mention.com/a-field-guide-to-product-management-best-practices-for-getting-started/
+
+## Lean Pricing
+I talked about it earlier, pricing is hard. My colleague [@omohout](https://twitter.com/intent/user?screen_name=omohout) is working on a book about pricing, specifically targetted at startups. You can subscribe via our landing page for updates. The first 500 subscribers get a series of 20 pricing tips in their mailbox, so be fast.
+
+Full article: http://leanpricing.co
+
+That's it for this week. See you next time.
+
+Cheers,
+
+Nick.
