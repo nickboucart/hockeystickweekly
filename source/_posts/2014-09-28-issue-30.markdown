@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Issue-30: WhatsApp and the Penny Gap"
+date: 2014-09-28 11:47:58 +0200
+comments: true
+categories: 
+---
+Hi there,
+
+Issue 30 already of the HSW. Thanks for staying with me. 
+
+## Super Detailed SEO strategy by Neil Patel
+
+A long and super detailed article by Neil Patel about how to identify and outrank your competitors when it comes to SEO. Neil explains the tools he uses, how he uses them, including screenshots and walk throughs. Cool stuff.
+
+Full article: http://www.quicksprout.com/2014/09/15/one-insanely-actionable-content-marketing-strategy-that-will-generate-more-search-traffic-today/
+<hr>
+## Slicing Pie
+Friend and long time HSW fan Hans sent me this link, and I was immediatly intrigued. If you're starting out, you often don't have big budgets. Yet, there is a lot of work to be done. So you take on board 1-2 people, and share equity with them. You slice the pie. This book gives you plenty of insights on how (not) to do this.
+
+Full article: http://www.slicingpie.com/
+<hr>
+## WhatsApp and the Penny Gap.
+There is a huge difference between a free service, and a 0.01$ priced service. That difference in perception is called "the Penny Gap". In this article, the gap is illustrated in large detail using WhatsApp as an example.
+
+Full article: http://firstround.com/article/WhatsApp-Used-This-Pricing-Strategy-to-Win-and-You-Can-Too
+<hr>
+## 7 Landing page mistakes.
+Landing pages are the new sales men. And it's the kind of sales men that works 24/7 and generates and captures lead while you sleep. Unless your call to action is not clear, or your images load too slow or... Well, read this article by Unbounce and check your landing pages to see if you're not making some of the mistakes.
+
+Full article: http://unbounce.com/landing-page-examples/7-landing-page-mistakes-stopping-prospects-dead-in-their-tracks/
+<hr>
+## Growth hacking gone overboard
+This article clearly illustrates that you can go overboard with growth hacking. Interesting stuff. 
+
+Full article: https://medium.com/@baratunde/let-me-tell-you-why-im-mad-at-growth-hacking-again-58aa6aa3fea5
+<hr>
+## Startup toolbox
+Down to earth article on 11 tools you can use in your startup: from free Google tools like gmail, drive, etc, over Boomerang for email reminders, or Rapportive for chekcing out your email contacts, and more.
+
+Full article: http://www.forbes.com/sites/nicktaranto/2013/06/17/the-startup-toolbox-twelve-free-tools-every-small-business-needs/
+<hr>
+
+That's it for this week, hope to see you next week.
+
+Cheers,
+Nick.
+
+Ps. If you have a startup and you're worrying about your pricing strategy, check out [Lean Pricing](http://leanpricing.co), leave your email there and start receiving pricing strategy tips in your mailbox.
