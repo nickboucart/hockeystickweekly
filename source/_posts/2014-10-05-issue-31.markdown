@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Issue 31: Analytics: “Visits” And Other Junk Metrics"
+date: 2014-10-05 16:17:57 +0200
+comments: true
+categories: 
+---
+Hello there,
+
+It has been a busy week for me, running drip marketing campaigns for our upcoming [Lean Pricing](http://leanpricing.co) book, working on an internal startup (something to do with automating twitter stuff) and following up on the latest news in the world of startups, cloud, SaaS and growth.
+<hr>
+## Analytics: "Visits" And Other Junk Metrics
+Short insightful article that compares junk metrics like "page views" with the real stuff, like conversions. I really liked the example of the "page not found" page that become super popular: yes, you have way more page views, but these visitors were not having the best experience. 
+
+Full article: http://www.backbonemedia.com/blog/web-analytics-visits-junk-metrics/
+<hr>
+## How To Go As Fast As You Can In A Startup Without Losing Control
+I admit, a bit of a populistic article, but it contains some valuable pieces of advies. There are some things you need to take your time for, even in a startup: hiring is one of these things, and finding investors is another thing you don't want to do overnight. When it comes to serving customers, or launching products for feedback, you'd better not be too patient.
+
+Full article: http://www.inc.com/matt-ehrlichman/how-to-go-fast-in-a-startup-without-losing-control.html
+<hr>
+## Why Startups Fail, According To Their Founders
+Entrepreneur.com has a comprehensive breakdown on why startups fails. It's no surprise that "no market need" scores at number one reason. Other reasons scoring high: "Ran out of cash", which is actually more of a symptom than an actual reason, "not the right team" and "lack of business model". 
+
+Full article: http://www.entrepreneur.com/article/238088
+<hr>
+## Startups, Developers and Job Rotation
+Interesting article on why startups should encourage their developers to regularly change team/department in order to be exposed to new technologies. With examples from Spotify, Stack Exchange and Viacom.
+
+Full article: http://www.fastcolabs.com/3036276/why-startups-should-let-developers-leapfrog-to-new-technologies
+<hr>
+## How to Structure a Long Form Landing Page
+Another highly detailed article on landing pages by Neil Patel, this time on how to structure long form landing pages. Article is full of clear examples, a must read for everybody who has a landing page.
+
+Full article: https://blog.kissmetrics.com/structure-longform-landing-page
+
+That's it for this week. See you around.
+
+Oh, and if you happen to stumble upon interesting stuff, do not hesitate to drop me a line.
+
+Your pal,
+Nick.
