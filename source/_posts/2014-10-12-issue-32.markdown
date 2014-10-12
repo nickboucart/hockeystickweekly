@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Issue 32: Hacking PR and More to Inspire Your Business."
+date: 2014-10-12 20:26:39 +0200
+comments: true
+categories: 
+---
+Hello there,
+
+I've got some nice stories for you today. Hope you find them as inspiring as I did.
+
+## Hacking Public Relations.
+Getting press coverage can create a lot of visibility, and ideally users for your startup. In this post, the guys of appbase go into great detail how they "hacked PR". They used a combination of "Google News Downloader", Mechanical Turk and Mailchimp. Result: huge press coverage for the budget less than $15.
+
+Full article: http://news.appbase.io/posts/236704-the-ultimate-press-hack
+<hr>
+
+## Making Product Hunt
+These are the kind of stories I really like, because they emphasize the essence of Lean Startup. Start small, experiment (in public), change, adapt and most of all, learn. 
+
+Full article: https://medium.com/on-startups/the-artifacts-of-product-hunt-11682e9e01dd
+<hr>
+
+## Founder’s Guide to Basic Startup Infrastructure
+Starting your business is hard: you'll need to setup domain names, email, website, e-commerce, analytics, phone number etc. etc. This long post points you to dozens of services and websites that can help you get your business up and running in no time.
+
+Full article: http://learn.flexport.com/founders-guide-to-basic-startup-infrastructure/
+<hr>
+
+## 5 Surprisingly Common Reasons for Customer Churn
+If you are running a subscription business, like a SaaS business, you'll need to maximaze retention and reduce churn. In this detailed post, 5 reasons for customer churn are illustrated: from poor onboarding, expired credit cards and poor customer service, all these can result in customers leaving you. Interesting read for all you SaaS entrepreneurs.
+
+Full article: http://blog.framed.io/5-surprisingly-common-reasons-for-customer-churn/
+
+As a bonus on the previous article, you can find another article that explains how one company, Help Scout, reduced monthly churn to below 1% (!!): http://blog.bestunning.net/nick-help-scout-kept-churn-rate-1
+<hr>
+
+## 24 People, No Managers: Our New Experiment in Getting Work Done at Buffer
+I really like how the guys at Buffer are open about a lot of things. In this long post, they explain how they organize internally. There are no managers, no real hierarchy, yet, they get a lot of stuff done, because they implemented a decision maker framework. 
+
+Full article: http://open.bufferapp.com/decision-maker-no-managers-experiment/
+
+That's it for this week, see you next time!
+Nick.
+
+PS: all you need to know to set your pricing strategy: http://leanpricing.co
+
