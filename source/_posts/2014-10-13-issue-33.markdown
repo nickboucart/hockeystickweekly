@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Issue 33: Five ways to build a 100 Million Dollar Business and more"
+date: 2014-10-13 14:01:27 +0200
+comments: true
+categories: 
+---
+Hello there,
+
+I've got some nice stories for you today. Hope you find them as inspiring as I did.
+
+## Five Ways to Build a 100 Million Dollar Business.
+Thought provoking artilce <a href="https://twitter.com/intent/user?screen_name=chrija">Christoph Janz</a>. He describes 5 different ways to build a 100 Million Dollar business. To get to that business, you'd be either hunting elephants, deer, rabbits, mice or flies. Sounds interesting, isn't it? Check the article for the details.
+
+Full article: http://christophjanz.blogspot.be/2014/10/five-ways-to-build-100-million-business.html
+<hr>
+## The Right Type Of Customer Conversations
+A must read article for all you SaaS companies out there. If you ever feel flooded by customer requests, you'll thank me for pointing you to this article from <a href="https://twitter.com/intent/user?screen_name=intercom">Intercom.io</a>. This artcile introduces a clear way to classify your customer conversations, and gives you concrete tips on how to scale your customer interactions.
+
+Full article: http://blog.intercom.io/the-right-type-of-customer-conversations
+<hr>
+## Implementing Hypothesis-Driven Development
+A slightly more technical article. For those developers accustomed with Test-Driven-Development, or Behavior-Driven-Development, this article introduces a new concept, borrowed from the lean startup movement: Hypothesis-Driven Development. I found this an interesting approach and will explore how I can use this in my own work.
+
+Full article: http://www.thoughtworks.com/insights/blog/how-implement-hypothesis-driven-development
+<hr>
+## 5 Super Easy Ways To Create Images for Your Blog Posts
+If you happen to blog every now and then, you'll know that images in posts are a good thing: people tend to engage more with visual content. This blog post gives you 5 tips on how to create images for your next piece of content.
+
+Full article: http://coschedule.com/blog/create-great-images-blog-posts/
+<hr>
+## Hiring for Startups
+Hiring is a hard thing, especially for startups, where every single hire can make or break your small team. This post gives some good advice on hiring for startups.
+
+Full article: http://labs.openviewpartners.com/worst-startup-hiring-mistakes/
+<hr>
+## How To Start A Startup Without Ruining Your Life
+Nice, long and personal article by <a href="https://twitter.com/intent/user?screen_name=riklomas">Rik Lomas</a> full of practical tips for startup entrepreneurs. Cannot agree more.
+
+Full article: https://medium.com/@riklomas/how-to-start-a-startup-without-ruining-your-life-af45eec09406
+<hr>
+Hope you enjoyed this selection of articles. If you find content that suites the future Hockey Stick Weekly's, shoot me line at <a href="https://twitter.com/intent/tweet?text=HSW Suggestion&via=nickboucart">@nickboucart</a>.
+
+Cheers,
+Nick.
