@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Issue 34"
+title: "Issue 34: A Quick Guide To Successful User Onboarding for SaaS Products and more inspiration."
 date: 2014-10-23 11:56:20 +0200
 comments: true
 categories: 
@@ -10,7 +10,7 @@ Hello there,
 I've got some nice stories for you today. Hope you find them as inspiring as I did. So without further ado, here they are.
 
 ## 4 Types of Apps That Never Succeed
-Short article about why apps fail. I can personally relate to reason number 2: the single founder. I have built small apps in the past, more fun than profit. In a startup there is so much to do, for a single founder that is sheer impossible. 
+Short article about why apps fail. I can personally relate to reason number 2: the single founder. I have built small apps in the past, more fun than profit.
 
 Full article: http://www.entrepreneur.com/article/238711
 <hr>
@@ -25,12 +25,12 @@ If you are regularly tweeting, or copywriting in general, just stop, print out t
 Full article: http://blog.bufferapp.com/copywriting-formulas
 <hr>
 ## The End Of Apps As We Know them
-Long and super insightful article on how the rich notifications the recent versions of Android and IOS will change everything for app builders, especially if these apps are front ends for SaaS-like applications.
+Long and super insightful article on how the rich notifications the recent versions of Android and IOS will change everything for app builders, especially if these apps are frontends for SaaS-like applications.
 
 Full article: http://blog.intercom.io/the-end-of-apps-as-we-know-them/
 <hr>
 ## Sales, Marketing, Design, and Growth Hacking: Your Go-To Guide for Growing Your Business
-At the risk of giving away my own sources here at the Hockey Stick Weekly, this article lists its own resources every startup entrepreneur should turn to in search of inspiration for growth, marketing and the likes. Number one on the list is Quora. Personally I don't seem to spend a lot of time and attention to Quora, but each time I do, I find a wealth of stuff there. Note to self: spend some time on Quora the next couple of weeks.
+At the risk of giving away my own sources here at the Hockey Stick Weekly, this article lists its own resources every startup entrepreneur should turn to in search of inspiration for growth, marketing and the likes. Number one on the list is Quora. Personally I don't seem to spend a lot of attention to Quora, but each time I do, I find a wealth of stuff there. Note to self: for the next couple of weeks, look more at Quora.
 
 Full article: http://blog.trippeo.com/guide-to-grow-your-business/
 
