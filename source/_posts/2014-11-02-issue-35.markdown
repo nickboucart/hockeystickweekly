@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Issue 35: Leveraging Twitter To Find Beta Testers And More Inspiration For Growing Your Tech Business"
+date: 2014-11-02 16:10:13 +0100
+comments: true
+categories: 
+---
+Hello,
+
+Another Monday, another HockeyStickWeekly. I would like to ask you a favor: I enjoy writing this weekly newsletter, however I could use some help in growing my readership. Here is how you can help me: simply forward this mail to 3 friends/peers/colleagues with a personal recomendation to subscribe. Really appreciated!!
+
+Next up: inspiring stuff for all you tech entrepreneurs.
+
+## Leveraging Twitter To find Beta Testers
+I like stories of how companies find their first 1000 users, in a true Lean Startup way. Here is a story from Front on how they used Twitter to engage with potential beta testers. Confession: I use a similar technique for attracting readers for the hockeystickweekly. One day, I'll write an article about it too, I promise.
+
+Full article: http://blog.frontapp.com/leveraging-twitter-to-find-beta-testers-a-real-use-case-with-mention
+<hr>
+## Born Global or Die Local
+<a href="https://twitter.com/intent/user?screen_name=sgblank">Steve Blank</a>, the Godfather of Customer Development, often publishes insightful articles about entrepreneurship. In this article he discusses that, if you want to build a "scalable startup", you should either have a home market of > 100 million people, or be truly global from day one.
+
+Full article: http://steveblank.com/2014/10/31/born-global-or-die-local-building-a-regional-startup-playbook/
+<hr>
+## How we Figured Out What Makes People Love Ghost 1,000% More
+Very detailed article that illustrates the importance of good onboarding. Most important feature of your onboarding process: guide your users as quickly as possible to "Wow". Point is, you don't know what Wow is, you need to look at your numbers for that. This article illustrates how Ghost did it.
+
+Full article: http://blog.ghost.org/ghost-onboarding/
+<hr>
+## How I Added 191 Email Subscribers In 24 Hours With A Single Blog Post
+Simple, yet powerful article for email marketeers (aren't we all ;) ). 3 simple steps to create more signups for your newsletter. 
+
+Full article: http://bloggingyourpassion.com/how-i-added-191-email-subscribers-in-24-hours-with-a-single-blog-post/
+
+## What’s the Best Way to Spend 30 Minutes of Your Time on Social Media Marketing?
+You can spend a lot of time as a social media marketeer. This article by Buffer tells you what to do if you have only 30 minutes a day.
+
+Full article: http://blog.bufferapp.com/social-media-time-management
+
+That's it for this week. Hope you can implement some of these things for your startup.
+
+Nick.
