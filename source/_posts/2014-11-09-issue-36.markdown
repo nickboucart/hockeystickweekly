@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Issue 36: How A/B Testing Works (for Non-Mathematicians) and more."
+date: 2014-11-09 20:12:05 +0100
+comments: true
+categories: 
+---
+Hi,
+
+Issue 36 already, with some stuff on A/B testing and growth in general. Enjoy!
+
+## 7 Indispensable (and Free!) Website Graders and Content Scores
+You do a lot of effort to create good content, still no sign of visitors. Use some of the free tools mentioned in this article to figure out if you're site is SEO and social friendly. Special mention goes out to fellow Belgians [woorank](http://woorank.com).
+
+Full article: https://blog.bufferapp.com/website-graders-content-scores
+<hr>
+## How A/B Testing Works (for Non-Mathematicians)
+You might not entirely agree with the second part of the title (the non-mathematicians part that is), still a great article on the statistics behind A/B testing by @kissmetrics.
+
+Full article: https://blog.kissmetrics.com/how-ab-testing-works
+<hr>
+## Eulogy for a Blog
+Pretty tongue-in-cheeck this post, it points you to a ton of mistakes you can make when starting and running a blog.  
+
+Full article: http://www.copyblogger.com/blog-eulogy
+<hr>
+## How user growth really works
+Simple, powerful article by <a href="https://twitter.com/intent/user?screen_name=mijustin">@mijustin</a> describing 3 ways to achieve user growth: from "finding speed trains" to "catching big waves". 
+
+Full article: http://justinjackson.ca/growth/
+<hr>
+## Why messaging apps are so addictive
+Interesting look at messaging apps (you know, snapchat and the likes). Using the Hook Model, as put forward in the book "Hooked: How to Build Habit-Forming Products", author Nir Eyal discusses why messaging apps are so addictive, and thus grow so fast.
+
+Full article: http://andrewchen.co/why-messaging-apps-are-so-addictive-guest-post
+
+That's it for this week, all feedback welcome!
+
+Nick.
