@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Issue 37 - How To Increase User Retention During The Free Trial Period and more inspiration"
+date: 2014-11-16 16:08:41 +0100
+comments: true
+categories: 
+---
+Another Monday, another HockeyStickWeekly,
+
+This week I have some stuff on free trails, autoresponders and more.
+
+## How To Increase User Retention During The Free Trial Period
+Many SaaS companies use "free trial" as a sales technique. And a good technique that is, it's risk free, try before you buy. Point is, the SaaS provider needs to do everything within its power to make sure the free trialer is converted into a paying customer. This article gives some good suggestion on how to do that.
+
+Full article: http://wilsonpeng.com/increase-user-retention-free-trial-period/
+<hr>
+## Best Prototyping and App Creation Tools and Resources
+Interesting article for non-technical founders in need of a first MVP. A comprehensive list of tools to prototype and build MVPs without too much technical skills. Note to self: check out some of these in more detail.
+
+Full article: http://www.byteswire.com/best-prototyping-app-creation-tools-resources/
+<hr>
+## Product Splintering: How we Generated $188,674 from a Dead Email List and a Tired Offer
+I have to be honest: I never heard of product splintering before, but this article got me thinking. Main idea: instead of selling your whole product or service, try to sell a small piece first, to build up a relationship, and sell the full service later on. 
+
+Full article: http://www.digitalmarketer.com/funnel-product-splintering/
+<hr>
+## We Tested All the Best Advice to Get More Clicks on Facebook. Here’s What Worked.
+The guys over at Buffer discuss in great detail all their experience with Facebook marketing. They tried out posting more, posting less, posting in odd hours etc. For each of these strategies, they documented the results. Interesting read.
+
+Full article: https://blog.bufferapp.com/facebook-marketing
+<hr>
+## How to Use Autoresponders to Accelerate Your Growth
+Interesting article on "autoresponders". An autoresponder is a series of emails, usually focused on a specific topic, delivered in a pre-determined sequence at pre-determined intervals. The process can begin when someone subscribes to your general email list. It's an automated way to deliver value and build trust. I have used autoresponders on [leanpricing.co](http://leanpricing.co) with great success, so I can only say: try it out for yourselves!
+
+Full article: https://blog.kissmetrics.com/autoresponders-to-accelerate-growth
+
+Found some interesting stuff yourselves? Feel free to tweet me @nickboucart.
+
+Greetz,
+Nick.
