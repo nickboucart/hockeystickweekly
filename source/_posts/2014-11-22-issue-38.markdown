@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Issue 38: Retention Roundup, Part 2: How Mention, Ghost, and Customer.io Beat Churn and more inspiration."
+date: 2014-11-22 16:39:29 +0100
+comments: true
+categories: 
+---
+Hello entrepreneurs,
+
+I have got some great articles lined up for you, so sit down, open your favorite browser and get inspired ;)
+
+## The Science of Building a Strong, Lasting Community on Social Media
+Long and semi-scientific article on communities, with lots of tips on do's and don'ts for your own online conversations. Touches upon things like "strong and weak ties", authenticity, etc. Good read.
+
+Full article: https://blog.bufferapp.com/science-of-building-social-media-community
+<hr>
+## Sell to Large and Enterprise Businesses Using This 16 Point Checklist
+If your startup is in B2B, you probably already know that in order to get customers, you'll have to do more than just putting up a landing page and a sign up form. If you're into enterprise software/products in particular, selling becomes this long, everlasting process of relationship management. This article offers you 16 tips on how to sell to enterprise. 
+
+Full article: https://blog.kissmetrics.com/sell-to-enterprise
+<hr>
+## Retention Roundup, Part 2: How Mention, Ghost, and Customer.io Beat Churn
+I work a lot with SaaS companies. The topic of Churn and Retention always pops up in the conversation. In this article, you'll find some examples to help you beat churn. Spoiler alert: better onboarding through timed video tutorials and stellar customer support help.
+
+Full article: http://blog.framed.io/retention-roundup-part-2-ghost-customer-io-mention-beat-churn/
+<hr>
+## How Top B2B Companies Use Customer Insights to Succeed: Step 1—Audience Building
+Interesting article that tells a couple of stories on how companies like Kissmetrics, Moz and others use data and customer insight. I particularly like the example of how unbounce.com used a support widget to learn that customers were utterly confused about the template pages they were offering.
+
+Full article: http://www.usertesting.com/blog/2014/11/18/b2b-success-customer-feedback-step-1/
+<hr>
+## The Real Reason Why Everyone Should Learn to Code
+Fun little article that I can only agree with. Everybody should learn to code, because once you can program a bit, you can make your life so much easier. (and it helps when growth hacking, but that is a different story).
+
+Full article: http://blog.teamtreehouse.com/havent-started-programming-yet
+
+Voila, that's it for this week, so you next Monday.
+
+Nick.
+
+PS. If you like the Hockeystick Weekly, please do me a favor. Forward this newletter to a couple of friends, with a friendly nudge to subscribe. Thanks!
