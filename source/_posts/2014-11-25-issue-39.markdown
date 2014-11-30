@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Issue 39: The Only Metric That Matters and more Inspiration."
+date: 2014-11-25 10:21:15 +0100
+comments: true
+categories: 
+---
+Hello,
+
+Monday again, time for your weekly dose of reading material. 
+
+## The only metric that matters
+I have talked about metrics before. This post stresses why "page views" or "monthly uniques" are almost never telling you anything, and how you should look at metrics that indicate how your *users* are using your site or service.
+
+Full article: https://medium.com/@joshelman/the-only-metric-that-matters-ab24a585b5ea
+<hr>
+## What I Learned From Building An App For Low-Income Americans
+A bit of an atypical article for the HockeyStick Weekly and then again, it is not. This is a long story on experiences doing customer development/lean startup with low-income Americans as the target audience. I felt small, humble and grateful for what I as a techie have after reading this article. 
+
+Full article: http://www.fastcolabs.com/3038792/what-i-learned-from-building-an-app-for-low-income-americans
+<hr>
+## How to Get Your First 1,000 Followers on Every Major Social Network
+The title says it all. This article demonstrates a generic strategy to get your first 1000 followers on a social network, and then goes in detail on how this strategy applies to Twitter, Facebook, G+ etc. Have you filled out your profile yet?
+
+Full article: https://blog.bufferapp.com/first-1000-followers-twitter-facebook-social-media
+<hr>
+## 10 Common Reasons Why Content Marketing Isn’t Working for You
+Down to earth article from Neil Patel on 10 common reasons why conent marketing is not working for many people. My personal favorite: content marketing = content creation + *content promotion*. No matter how good your content is, without the necessary promotion, it will not generate lead for you.
+
+Full article: https://blog.kissmetrics.com/content-isnt-working-for-you/
+<hr>
+## Mean People Fail
+I seem to be in a more philosofical mood this week. I liked this article by Paul Graham a lot: he argues that among the successful startup people, you find very few mean people. I don't think Paul has the science to back up this claim, he sure has the arguments. 
+
+Full article: http://paulgraham.com/mean.html
+<hr>
+## How to Start a Startup: How to Build Products Users Love
+To wrap up the week, an article about building online products. There are some interesting thoughts here, especially the advice to approach customer support like a marriage.
+
+Full article: http://blog.thinkapps.com/development/how-start-startup-build-products-users-love/
+
+That's it for this week, happy reading.
+
+Nick.
+
