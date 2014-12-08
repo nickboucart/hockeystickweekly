@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Issue 40: How to Create a Customer Acquisition Plan for Startups and more inspiration"
+date: 2014-12-08 14:30:42 +0100
+comments: true
+categories: 
+---
+Hello,
+
+Monday again, a bit later than usual, but here it is, your weekly dose of inspiration.
+
+## A better subscription model with focus on the customer
+Short article on how to make a subscription business better. I particularly liked the idea of "auto-pausing" your account.
+
+Full article: https://www.linkedin.com/pulse/article/20141203173048-64259273-a-better-subscription-model-with-focus-on-the-customer
+<hr>
+## Things That Don’t Scale: Boatbound Shares 4 Surprising Ways to Turn Random Strangers into (Paying) Fans
+Nice article on how Boatbound, a pier-to-pier (pun intended) market place for boat rentals, uses growth hacks that don't necessary scale. From mailing post cards to random visits in the marina, although not scalable, it works for them. Can you think of non-scalable hacks for your business?
+
+Full article: http://500.co/boatbound-things-that-dont-scale
+<hr>
+## How Groupon Manages Its Email Programs
+Insightful article on how Groupon used email to become "the fastest growing company in history" and how their view on email evolved over the years.
+
+Full article: http://marketingland.com/best-practice-pros-groupon-manages-email-programs-108798
+<hr>
+## How to Create a Customer Acquisition Plan for Startups
+Interesting read on how to create a customer acquisition plan. Similar like the author, I too hear on a regular basis: we will use social media and content marketing as our engine of growth, but that is just like saying: I will take a road to drive to the beach. It's too vague, too broad and nothing actionable. Hence, the need for a real plan.
+
+Full article: http://ryangum.com/customer-acquisition-plan/
+<hr>
+## What should we do about users who completed trial but did not sign up at the end?
+Interesting question on Quora, one I'm struggling with for the moment too. Found some of the answers inspiring, hope you do too.
+
+Full article: http://www.quora.com/We-are-a-SaaS-startup-offering-free-14-days-trial-of-our-service-What-should-we-do-about-users-who-completed-trial-but-did-not-sign-up-at-the-end
+
+That's it for this week, see you next Monday.
+
+Nick.
