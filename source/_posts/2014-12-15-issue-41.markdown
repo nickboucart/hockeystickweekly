@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Issue 41: Why Growth Hacking Can Kill Your Startup"
+date: 2014-12-15 23:03:29 +0100
+comments: true
+categories: 
+---
+Hi there,
+
+It's that time of year again, closing projects and loose ends before Christmas, hence the delay of your beloved Hockey Stick Weekly. Hopefully these articles make it up.
+
+## Growth Hacking Quick Wins
+Huge slide deck (198 slides) full of down to earth tips and tricks for you growth hackers out there. I scrolled to it 5 times at least the last couple of days, and always stumble upon new little insights. Highly recommended.
+
+Slide deck: http://www.slideshare.net/mattangriffel/29-growth-hacking-quick-wins
+<hr>
+## Why Growth Hacking Can Kill Your Startup
+Clear and to the point article on the dangers of growth hacking before you reached Product/Market fit. Or, as David Ogilvy once said: "Nothing kills a bad product faster than good advertising."
+
+Full article: https://medium.com/@ramlijohn/why-growth-hacking-could-be-killing-your-startup-e9851151364a
+<hr>
+## The One-Slide Update Deck
+Good investors follow up on how their startups are doing, help them out, want them to measure progress and raise issues when they happen. In this blog post <a href="https://twitter.com/intent/user?screen_name=@chrija">@chrija</a> introduces a one slide Powerpoint that can be used in a monthly call to follow up on progress and issues. It's probably a good idea to implement such a 1 slide overview anyway.
+
+Full article: http://christophjanz.blogspot.be/2014/12/introducing-one-slide-update-deck.html
+<hr>
+## How to Host a Meetup For Your Community: The Who, What, Where, When, And How
+Interesing article on community building through meetups. I myself witnessed first hand the dawn of 2 popular meetups in Belgium (with http://www.meetup.com/Growth-Hacking-Belgium/ as the biggest and most active one) and recognize lot's of the tips in this article as things we did right ourselves too.
+
+Full article: https://blog.bufferapp.com/meetups
+<hr>
+
+That's it for this week! Enjoy!
+
+Nick.
+
+Ps. my colleague <a href="https://twitter.com/intent/user?screen_name=omohout">@omohout</a> is writing a book on Lea(r)n Marketing. The book is very much in beta right. I can offer the first 20 readers of the Hockey Stick Weekly a 33% discount on the book. You'll automagically receive updates as soon as they are written. Use [this link](https://leanpub.com/learnmarketing/c/M46zrLf7fkAV ) for this promo.
