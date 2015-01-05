@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Issue 42: Building an MVPP: Minimum Viable Product We’re Proud Of"
+date: 2015-01-05 11:53:25 +0100
+comments: true
+categories: 
+---
+Hello there!
+
+First of all, a happy 2015 with lot's of growth and new stuff for all of you! I hope that my selection of articles provides you with the necessary inspiration to make 2015 your best year to date.
+
+## How SaaS Marketing is Different from Every Other Type of Marketing
+I work a lot with SaaS companies, I run my own little SaaS startup, so I'm particularly interested in understanding how to market a SaaS product. Turns out, SaaS marketing is simple ;)
+
+1.  Awesome Products
+1.  Killer Support
+
+Full article: https://blog.kissmetrics.com/how-saas-marketing-is-different
+<hr>
+## Building an MVPP: Minimum Viable Product We’re Proud Of
+This article introduced the MVPP: the Minimum Viable Product we’re Proud of. The article describes in great detail how the folks at Optimizely build and shipped their IOS editor. 
+
+Full article: http://blog.optimizely.com/2014/12/30/building-an-mvpp-minimum-viable-product-were-proud-of/
+<hr>
+## How Asking For Help Can Lead To Business Growth
+As a startup founder, or business owner, you can't do everything yourself. So you'll have to call for help every now and than. This article gives tons of advice on asking for help, when to ask for help, and who to ask for help (spoiler: your hero's, friends, peers,...). 
+
+Full article: http://www.forbes.com/sites/sujanpatel/2014/12/26/how-asking-for-help-can-lead-to-business-growth/
+<hr>
+## How to Send Behavioral Emails That Will Boost Your Conversions
+Hands-on and example packed article about behavioral emails, i.e. personalized emails that are triggered by specific actions of your users.
+
+Full article: http://blog.getvero.com/convert-with-behavioral-email/
+<hr>
+## Engaging at Scale: The Secret to Automating Personal Emails
+Another article about automated personal email. Seems I'm particularly interested in this topic :)
+
+Full article: http://sixteenventures.com/personal-emails
+
+That's it, hope you like it, see you next week!
+Nick.
+
+Ps. Please do me a favor and forward this newsletter to a couple of peers, thanks!
