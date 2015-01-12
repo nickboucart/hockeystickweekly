@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Issue 43: Startup Special: Early Traction"
+date: 2015-01-12 15:38:32 +0100
+comments: true
+categories: 
+---
+Hello there,
+
+I have something special for you today! 
+
+Do you know that feeling? You're quitely minding your own business and then it hits you: you have this **amazing idea** for something new. 
+
+Energy starts flowing, your mind goes in overdrive, you see opportunities, the sky is the limit!
+
+*I know I have this all the time.*
+
+Does that make you a successful entrepreneur? By no means. Ideas without actions are worth very little, if nothing...
+
+So, now what?
+
+Here is what I would do:
+
+1. Read [Genesis: Idea Stage](http://www.slideshare.net/omohout/genesis-43234459), an amazing free ebook by my colleague Omar Mohout, and start wondering: is my idea addressing a shark bite problem, or a mosquito bite problem?
+2. With this in mind, start *validating* your idea, and no, you don't need to build a lot to do that. You can go from idea to paying customers in weeks, like [Buffer did](https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it). Some do this even in a [matter of hours](https://medium.com/@jibly/how-producthunt-helped-me-go-from-no-idea-to-profitable-in-15-hours-including-6-hours-of-sleep-9398ff0bc55d)
+3. And then, start *building*, as *little as possible*, for a few people, but make sure [they need it desperately](http://www.inc.com/rahul-varshneya/build-a-product-that-only-a-few-people-want-desperately.html).
+4. Focus on getting to *Product/Market* fit because [it's the only thing that matters for startups](https://www.linkedin.com/pulse/marc-andreessen-product-market-fit-startups-marc-andreessen)
+5. Once you have Product/Market fit, you go for *growth*, but that's a different story ;)
+
+So, what are you **doing** to take your next idea further? 
+
+Greetz,
+Nick.
+
+
+
+
