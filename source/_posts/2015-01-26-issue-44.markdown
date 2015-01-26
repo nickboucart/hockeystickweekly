@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Issue 44: The Illusion of Product/Market Fit for SaaS Companies"
+date: "2015-01-26 13:27:14 +0100"
+comments: true
+categories: null
+---
+Hi there,
+
+Edition 44 of the Hockey Stick Weekly, with a lot of SaaS stuff this week. 
+
+## What's table stakes in SaaS, anno 2015?
+A bit late for a New Year's resolution, but still. In this short
+article, SaaS VC Christoph Janz gives an overview of what SaaS
+entrepreneurs need to master these days. Content marketing, life cycle
+marketing, metrics, you name it. Must read
+
+Full article: http://christophjanz.blogspot.be/2015/01/whats-table-stakes-in-saas-anno-2015.html
+<hr>
+## 4 Data-Driven SaaS Onboarding Emails You Should Be Sending
+As an illustration of how high exactly the stake are in the SaaS world, read this article: it describes in great details how 4 types of onboarding emails can make or break the experience of new users. I'm sure I'll be implementing some of these soon.
+
+Full article: http://blog.getvero.com/saas-onboarding-emails/
+
+## The Illusion of Product/Market Fit for SaaS Companies
+I have talked about Product/Market Fit before in this newsletter. In this post, Brad Felt debunks 4 myths about Product/Market fit for SaaS companies. He makes the bold statement that only when you blast through the $500k MRR (Montly Recurring Revenue) mark and march to $1m MRR, you have it. And even than, you're not safe. Fascinating read.
+
+Full article: http://www.feld.com/archives/2015/01/illusion-product-market-fit-saas-companies.html
+<hr>
+## The 5-Step Process For Creating Epic Blog Posts
+A much lighter article, this one: a doable, 5 step process for writing long form, epic blog posts. 
+
+Full article: http://buzzsumo.com/blog/5-step-process-creating-epic-blog-posts/
+<hr>
+## Should Startups Blog? An Essay (with Data) to Decide Once and For All
+Now that you read about a 5 step process to write epic blogs, you might wonder: should my startup have a blog? The answer is most likely yes: because blogging will build you an email list, and an email list gives you permission to contact people. That, and a ton full of other advice in this long article.
+
+Full article: http://nextviewventures.com/blog/should-startups-blog
+<hr>
+
+That's it for this week, see you around!
+
+Nick.
