@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Issue 45: Lessons Learned From Scaling A Product Team"
+date: 2015-02-03 06:29:10 +0100
+comments: false
+categories: 
+---
+Hello again,
+
+5 articles this week for your inspiration. Hope you enjoy them.
+
+## Lessons Learned From Scaling A Product Team
+Long and insightful article by @intercom on how they organize and scale their product team. They focus relentlessly on delivery and progress, this article details how they do it.
+
+Full article: http://blog.intercom.io/how-we-build-software/
+<hr>
+## How To Drive Insights For Growth
+This article by the guys of Hubspot discusses "Growth": how to measure it, how to improve, where does growth come from anyway? Is it all data-driven? Or is there room for Intuition? Read the article and you'll know.
+
+Full article: http://www.coelevate.com/essays/growth-insights
+<hr>
+## The SaaS Adventure
+Article by VC @NeerajVC on how he looks at SaaS companies. He discusses 7 milestones a SaaS company should pass, and the challenges SaaS companies face during this time. 
+
+Full article: http://techcrunch.com/2015/02/01/the-saas-travel-adventure/
+<hr>
+## Retention Strategies 4: How Three SaaS Businesses Beat Churn
+Churn kills SaaS businesses. You should focus hard on on keeping your customers, and keeping them happy. This article describes how some of the big names in Saas implement retention strategies. I personally liked the idea of having a required comment box to fill in by every customer that cancels her account. At least you'll have a clear opportunity to learn why the customer left.
+
+Full article: http://blog.framed.io/retention-strategies-4-bidsketch-hubspot-intercom/
+<hr>
+## Increase user payments rate up to 20%
+To wrap up today, a short story on how a snippet of javascript caused a company missing a lot of revenue. Lessons learned for me: you can growth hack all you want, if users can't pay, you're doing it all for nothing.
+
+Full article: https://medium.com/@bayramannakov/increase-user-payments-rate-up-to-20-c5966d519c8f
+
+See you next time!
+
+Nick.
