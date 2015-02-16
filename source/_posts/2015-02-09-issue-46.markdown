@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Issue 46: The SEO Food Pyramid"
+date: "2015-02-09 15:01:05 +0100"
+comments: true
+categories: null
+---
+Hello, 
+
+Your weekly dose of inspiration for growth is here. Hope you like it.
+
+## The SEO Food Pyramid
+When you are into content marketing, SEO, or Search Engine Optimization, is super important. SEO is harder than you think: your website needs to be structured well, your content needs to be good, you need content promotion, etc etc. This article used the food pyramid as a metaphore to illustrate all the different parts of content marketing + lots of links and references.
+
+Full article: http://elumynt.com/the-seo-food-pyramid/
+<hr>
+## The 6 Tactics This SaaS Entrepreneur Used to Triple His Growth Rate
+Interesting article full of down to earth tactics describing how one SaaS entrepreneur drives growth. My favorites: retargetting _drive-by visitors_, and _educate everywhere_.
+
+Full article: https://blog.kissmetrics.com/six-tactics-triple-saas-growth/
+<hr>
+## 4 Things You Need to Know Before You Start Recurring Billing
+Another article from the Kissmetrics blog (these guys rock when it comes to content marketing ;) ). In this article, Neil Patel talks about subscribtion billing. The article is full of tips, examples and links to online tools that can help you with subscribtion billing. 
+
+Full article: https://blog.kissmetrics.com/before-starting-recurring-billing
+<hr>
+## The Psychology Of Notifications
+Nice article that compares _notifications_, you know, these buzzes, pings and other noises your smart phone makes, with a Pavlov reflex and how well timed, actionable notifications can create trust and loyalty for your application.
+
+Full article: http://techcrunch.com/2015/02/05/the-psychology-of-notifications/
+<hr>
+## The Marketer's Guide to Surveying Users
+A whole book on surveying users. To be honest, I haven't read it all, just skimmed through it, but man, the next time I'll be surveying users, I'll be looking at this first.
+
+Full article: https://qualaroo.com/marketers-guide-surveys/
+<hr>
+
+That's it for this week!
+
+Nick.
+
+Ps. I am building a ____Twitter Automation tool__, code name DenBot, that helps you build growth engines via Twitter. I'm in beta for the moment. I can offer __5 free 30 day trails__ to my readers. Just hit reply and ask for an invite.

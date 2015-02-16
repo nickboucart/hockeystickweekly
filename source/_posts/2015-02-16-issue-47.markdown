@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Issue 47: How To Get An Awesome Marketing Analytics Stack"
+date: 2015-02-16 15:32:06 +0100
+comments: true
+categories: 
+---
+Hi there,
+
+Your weekly dose of inspriation for growth is here again. Enjoy!
+
+## DIY Email Referrals
+An older article on how you can hack togehter an email referral system without actually coding. This isn't a super recent article, but I really like it, because I'm a big fan of glueing things together.
+
+Full article: [http://sachagreif.com/diy-email-referrals/](http://snip.ly/LU02)
+<hr>
+## How To Get An Awesome Marketing Analytics Stack
+Building on top of the previous article, here's some other tools you can glue together to implement a marketing and analytics stack. I'm personally using Mailchimp, Intercom.io and Mailgun, wonder what you are using?
+
+Full article: [http://blog.popcornmetrics.com/how-to-get-an-awesome-marketing-analytics-stack/](http://snip.ly/w8Ds)
+<hr>
+## Experimenting with Product, Price and Market
+Interesting take on Product/Market fit. Main takeaway: startups should experiment with product, price and market, but if you're experimenting with all three at the same time, it's perhaps time to take a step back.
+
+Full article: [http://www.instigatorblog.com/experimenting-with-product-price-and-market/2015/02/09/](http://snip.ly/V9gt)
+<hr>
+## Facebook’s VP of Growth Gives You Tips on Growing Your Product
+Long and interesting article on growth. Main takeaways: what is your _North Star Metric_? You know, that one metric that really matters and illustrates growth (of the lack thereof). Second takeaway for me was the whole discussion about viral growth. 
+
+Full article: (https://blog.kissmetrics.com/alex-schultz-growth/)[http://snip.ly/nSpr]
+<hr>
+## Get Out Of The Way. Give Users What They Want
+Interesting article about discovering how users actually use your product and services, and not to be dogmatic about it.
+
+Full article: (https://medium.com/design-philosophy/get-out-of-the-way-87ad3194cf02)[http://snip.ly/dbqa]
+
+That's it for this week.
+
+Cheers,
+
+Nick.
