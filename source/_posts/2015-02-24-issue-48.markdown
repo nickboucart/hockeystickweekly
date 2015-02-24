@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Issue 48: A Closer Look At TripAdvisor’s Unfair Email Marketing Advantage"
+date: 2015-02-24 06:51:41 +0100
+comments: true
+categories: 
+---
+Hello,
+
+Time again for the most inspiring articles on startups and growth for this week, issue 48.
+
+## The Best Content Marketing Tools to Help You Work Smarter, Not Harder
+Content marketing is a good strategy for many startups, but it's not that simple. This article focusses on a number of tools that can help you to become a successful content marketeer. The article includes some nice references to what other influencial bloggers use as tools.
+
+Full article: (https://blog.bufferapp.com/content-marketing-tools)[http://snip.ly/SXTW]
+<hr>
+## 5 Tips to Make Sure You Are Validating Early and Often
+It's been a while since I posted stories about early startup life. Well, hope this article makes up for that. This blog post is a warm call to _get out of the building_, because often, _your gut is wrong_.
+
+Full article: (https://blog.kissmetrics.com/validating-early-and-often)[http://snip.ly/iE70]
+<hr>
+## A Closer Look At TripAdvisor’s Unfair Email Marketing Advantage
+Long and insightfull article that describes in great detail how TripAdvisor is using 20 different kinds of emails to build a relationship with its users. Talking about life cycle marketing ;)
+
+Full article: http://blog.getvero.com/guides/tripadvisors-unfair-advantage/
+<hr>
+## Ideas are the Currency of Growth
+Summary of a recent talk of Morgan Brown (growth engineer) on mobile growth. First takeaway: don't start growth hacking if you do not have Product/Market fit. The article contains links to both the presentation as well as a video of the whole talk. Inspiring!
+
+Full article: https://blog.branch.io/ideas-are-the-currency-of-growth/
+<hr>
+## What would you do to jumpstart growth for a new company’s blog?
+Interesting discussion over at growthhackers.com. Starting a new (company) blog is hard: you have to start from zero. In this disucssion, experts give insights in how they would tackle this problem. 
+
+Full article: https://growthhackers.com/questions/what-would-you-do-to-jumpstart-growth-for-a-new-companys-blog/
+
+Well, that's it for this week, see you next time.
+
+Cheers,
+
+Nick.
+
+Ps. I'm working on DenBot, **Twitter Automation for and by growth engineers**. I can give away **5 beta invites** to test it out, simply send me an email and I will get you up and running in no time.
