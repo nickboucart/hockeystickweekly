@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Issue 49: New Relic’s Growth Playbook from Startup to IPO"
+date: 2015-03-10 06:39:52 +0100
+comments: true
+categories: 
+---
+Hello,
+
+Ready for issue 49 of the HockeyStick Weekly? Here we go!
+
+## New Relic’s Growth Playbook from Startup to IPO
+New Relic is a company that build Application Monitoring Software. The company went public a couple of month ago. This article details how the went from 0 to IPO, how they gained early traction and how they do it today. (hint: they offer t-shirts). Nice read!
+
+Full article: https://growthhackers.com/companies/new-relics-growth-playbook-from-startup-to-ipo/
+<hr>
+
+## How Instagram Onboards New Users
+I'm a big fan of useronboard.com. There is so much to learn from how other big companies onboard new users. This time, Instagram is taken for a spin.
+
+Full article: http://www.useronboard.com/how-instagram-onboards-new-users/
+<hr>
+
+## Five Reasons Why Prospects Object to Your SaaS Product and How to Overcome Each Objection
+Most software entrepreneurs dream of hockey stick SaaS success these days. Yet, contrary to popular belief, SaaS not always sells itself, you'll face objections like Price (SaaS is expsive!!) and the dreaded security questions (I don't trust my data in the cloud). This article gives some pointers on how to address these objections. 
+
+Full article: https://blog.kissmetrics.com/overcoming-objections-to-saas
+
+<hr>
+## 5 Simple Ways to Increase LTV for an Ecommerce Business
+LTV, or life time value, or the total amount of money that you’ll receive from a customer throughout their entire lifetime as a customer, is probably the single most important metric for an Ecommerce, according to this article. High quality email newsletters or setting up a subscription payment thingie are just 2 ways to increase LTV.
+
+Full article: https://blog.kissmetrics.com/5-ways-increase-ltv
+
+<hr>
+## How Fast is Fast Enough
+How fast should you grow? When are you _a fast growing company_? Well, it depends according to this article. It's a bit inside VC baseball, but well worth the read.
+
+Full article: http://christophjanz.blogspot.be/2015/03/how-fast-is-fast-enough.html
+<hr>
+## Behavioral Emails That Keep Customers Coming Back (with Examples from My Inbox)
+Email works, when it is done well, that is. This long post describes how well times, behavioral emails can help you build a strong, lasting relationship with your customers, with examples.
+
+Full article: http://unbounce.com/email-marketing/behavioral-emails-keep-customers-coming-back/
+
+
+Well, that's it for this week, see you next time.
+
+Cheers,
+
+Nick.
+
+Ps. I'm working on DenBot, **Twitter Automation for and by growth engineers**. I can give away **5 beta invites** to test it out, simply send me an email and I will get you up and running in no time.
