@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Issue 50: Exposed! A Top-Secret “Enterprise Pricing” Growth Hack"
+date: "2015-03-30 22:11:17 +0200"
+comments: true
+categories: null
+---
+Hi there,
+
+Welcome the 50th (yes five zero!!) edition of the Hockey Stick Weekly, your (almost) weekly short newsletter with the must-read inspirations in growth and startups of the past week.
+
+## Exposed! A Top-Secret “Enterprise Pricing” Growth Hack
+I have said it before, pricing is hard. Ever wondered what is behind the "Need More?" button on many pricing pages? Well, this lengthy article goes in great detail on how to do enterprise pricing for a SaaS company.
+
+Full article: http://sixteenventures.com/enterprise-pricing
+<hr>
+## How to Build a Growth Machine
+"Growth has nothing to do with tactics; it has everything to do with process." according to Brian Balfour, VP of Growth at Hubspot. I tend to agree with this statement ;) This article illustrates how you can build your growth machine, and more importantly, which processes you need to install to have a constant, experimental focus on growth.
+
+Full article: https://blog.kissmetrics.com/build-a-growth-machine/
+<hr>
+## Test your startup idea: A list that took me 8 years to develop
+Long, insight and most important a personal story on how to assess if your idea is any good.
+
+Full article: http://blog.hubstaff.com/test-your-startup-idea/
+<hr>
+## Standing on the Shoulders of Giants: 6 APIs for instant SaaS Success
+Article by yours truly: if you are running a SaaS business, you need to think of an awful lot of things. Luckily, there are plenty of services and API's out there to help you.
+
+Full article: https://medium.com/@NickBoucart/standing-on-the-shoulders-of-giants-6-apis-for-instant-saas-success-ddf7c5e7f017
+<hr>
+## How I got 2.3 million app downloads (without spending a cent on marketing)
+To wrap up HSW 50, another personal story of how an app that was initially built in 6 hours became a hit on the App stores.
+
+Full article: https://medium.com/@stuartkhall/how-i-got-2-3m-app-downloads-without-spending-a-cent-on-marketing-f4823b6bc779
+<hr>
+
+Well, that's it for this week, see you next time.
+
+Cheers,
+
+Nick.
+
+Ps. I'm working on DenBot, **Twitter Automation for and by growth engineers**. I can give away **5 beta invites** to test it out, simply send me an email and I will get you up and running in no time.
