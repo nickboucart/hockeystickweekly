@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Issue 51: 7 Modern Marketing Frameworks Every Startup Needs to Know"
+date: 2015-04-19 15:27:58 +0200
+comments: true
+categories:
+---
+Hello again,
+
+## The Next Wave of SMB SaaS: True Solutions. Priced as Such.
+I'm working a lot with startups that target the SMB market, rather than the enterprise market. This article will sound like a relief for them. There is hope. SMB's aren't particularly early adopters for SaaS solutions, but according to this article, something is changing.
+
+Full article: http://www.saastr.com/the-next-wave-of-smb-saas
+<hr>
+## 7 Modern Marketing Frameworks Every Startup Needs to Know
+Do you know _AARRR_, Pirate metrics for Startups? Or _Hooked_? What about _the ICE score_? These are just 3 of the 7 marketing frameworks presented in this overview blog post.
+
+Full article: http://www.semrush.com/blog/7-modern-marketing-frameworks-every-startup-know
+<hr>
+## Churn, Retention, and Reengaging Customers
+Insightful article from Intercom.io on how to fight churn through timely emails that reengage customers.
+
+Full article: http://blog.intercom.io/churn-retention-and-reengaging-customers
+<hr>
+## 7 Ways We’ve Harnessed the Power of Multipliers to Accelerate Our Growth
+Interesting read from GrooveHQ on how some things they do/did created disproportionally large growth. From Automated Emails to well placed referral links. I'm sure I'll be using some of these tips myself one day.
+
+Full article: https://www.groovehq.com/blog/business-growth-multipliers
+<hr>
+## 8 A/B Split Tests That Made Shocking Discoveries
+A/B split testing is a technique whereby you present different users with different versions of your content or applications, and measure which version performs best. This article gives 8 stories from the trenches where A/B testing revealed really made a difference.
+
+Full article: https://blog.kissmetrics.com/ab-tests-shocking-discoveries
+
+Well, that's it for this week, see you next time.
+
+Cheers,
+
+Nick.
+
+Ps. I'm working on DenBot, **Twitter Automation for and by growth engineers**. I can give away **5 beta invites** to test it out, simply send me an email and I will get you up and running in no time.
