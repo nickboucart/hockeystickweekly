@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Issue 52: How I Manage a Social Media Platform of Over 11 Million Followers Every Day"
+date: 2015-04-27 13:36:38 +0200
+comments: true
+categories:
+---
+Hello,
+
+I have 6 stories for you this week, all about growth and startups. Hope you like them.
+
+## How I Manage a Social Media Platform of Over 11 Million Followers Every Day
+Ever wondered how to manage really large social media accounts? This article goes into a lot of detail, including links and pointers to tools used.
+
+Full article: https://blog.bufferapp.com/scale-social-media-growth-strategies
+<hr>
+## Customer Acquisition Cost: The One Metric That Can Determine Your Company’s Fate
+I have written about CAC, or customer acquisition cost before. A too high CAC can kill your margin, and in worst case your company. This article goes into a lot of detail on how to measure and improve CAC and gives examples of CAC for an e-commerce and a SaaS company.
+
+Full article: https://blog.kissmetrics.com/customer-acquisition-cost/
+<hr>
+## How we gathered 2,7K emails & 6,2K page views in 72hrs spending only $150
+Interesting article on how a startup in the "parenting" space gathered some serious traction by putting a _social test_ online.
+
+Full article: https://medium.com/campfire-weekly/how-we-gathered-2-7k-emails-6-2k-page-views-in-72hrs-spending-only-150-1efc5752b6eb
+<hr>
+## The Three Small Changes That Created 81% More Active Users
+Nice, hands-on article on how 3 little changes in the onboarding process, means a hell of lot more active users.
+
+Full article: http://adii.me/three-small-changes-that-created-81-more-active-users/
+<hr>
+## Here’s Why You’ll Hate the Apple Watch (and the Important Business Lesson You Need to Know)
+I couldn't resist and put an Apple Watch article as well this week. The main reason I add it here is not because of the Apple Watch, but because this article does a great job in explaining the Kano model for customer satisfaction. This model puts features into 3 categories: _delightful_ features, _linear_ features and _hygienic_ features. Each product should have a good mix of all 3 types. So, the next time you're having a feature meeting, try this model and score your feature requests.
+
+Full article: http://www.nirandfar.com/2015/04/apple-watch-kano-model.html
+<hr>
+## Characteristics of B2B unicorn ideas
+Unicorns are companies with a valuation above $1bn. One could ask: do rapid growing unicorn tech companies have things in common. This post tries to answer that question and found out there are 3 key characteristics:
+
+1. Potentially huge market
+1. Novel product
+1. Ability to create an advantage / difficult to compete against
+
+With this knowledge, you can do the math: does your startup have the potential to be a unicorn?
+
+Full article: https://medium.com/@rikutter/characteristics-of-b2b-unicorn-ideas-4536fec9d1c7
+
+Well, that's it for this week, see you next time.
+
+Cheers,
+
+Nick.
+
+Ps. I'm working on DenBot, **Twitter Automation for and by growth engineers**. I can give away **5 beta invites** to test it out, simply send me an email and I will get you up and running in no time.
