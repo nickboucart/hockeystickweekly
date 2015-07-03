@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Issue 54: SaaS Pricing: Our Big Free Plan Mistake"
+date: 2015-07-03 14:13:18 +0200
+comments: true
+categories:
+---
+Hi there,
+
+It has been a little quiet here at the Hockey Stick Weekly. I'll try to make up to you with an longer summer edition and provide you with some inspirational reading on startups and growth.
+
+## From Social Networks To Market Networks
+An interesting post about one of the next big things: *market networks* combine elements of social networks with market places and SaaS workflows. While traditional market places focus on relatively simple transactions, market networks focus on projects, bringing many stakeholders together.
+
+Full article: http://techcrunch.com/2015/06/27/from-social-to-market-networks/
+<hr>
+
+## The Biggest Social Media Science Study: What 4.8 Million Tweets Say About the Best Time to Tweet
+Did you know that morning tweets attract on average the most interaction? The people at Buffer did an extensive study and this was just one of their findings.
+
+Full article: https://blog.bufferapp.com/best-time-to-tweet-research
+<hr>
+
+## SaaS Pricing: Our Big Free Plan Mistake
+In many, if not most cases, freemium just doesn't work. This article gives some lessons learned from a SaaS startup that started out with a free plan. Turned out: free users bring in more free users, they eat up support, and they rarely bring in real money.
+
+Full article: http://blog.hubstaff.com/saas-pricing-free-plan-mistake/
+<hr>
+
+## Why You Should Change Your SaaS Pricing Every 6 Months
+Pricing is hard! I know, I've said it before, a colleague of mine, [@omohout](https://twitter.com/omohout) actually wrote a book about it (order your copy [here](http://businessandeconomics.diekeure.be/nl-be/catalogus/management-333/lean-pricing-6242)), this blog post just proves my point. You should revise your pricing each 6 months, and experiment with it.
+
+Full article: http://www.priceintelligently.com/blog/Why-You-should-Change-Your-saas-pricing-every-six-months
+<hr>
+
+## Three take aways of Growth Hacking and Full Stack Marketing for Startups
+I went to a 1 day growth hacking and full stack marketing workshop in Amsterdam, here's my 3 key takeaways.
+tl;dr: "The medium is the message", "From medium to channel" and "SEO is here to stay, especially when you realize that SEO is broader than Google"
+
+Full article: http://blog.sirris.be/blog/three-take-aways-growth-hacking-and-full-stack-marketing-startups
+<hr>
+
+## Getting Your First 1,000 Facebook Fans
+You'd love your content to go viral, don't you? So you setup this Facebook fan page, and than, you hope these million of fans will just flood your page, don't you? That won't happen just like that though ;) Here's an infographic on how to get your first 1000 fans on board.
+
+Full article: https://blog.kissmetrics.com/your-first-1000-facebook-fans/
+<hr>
+
+## How Apple Music Onboards New Users
+I've covered "onboarding" and "activating users" before on the HSW, it's a crucial part in the customer life cycle, and it is hard to get it right. Even Apple has some issues still to iron out.
+
+Full article: http://www.useronboard.com/how-applemusic-onboards-new-users/
+
+That's is for now.
+
+Enjoy the summer!
+
+Nick.

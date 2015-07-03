@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Issue 53: Love what you build. Build what you love."
+date: 2015-05-31 20:19:32 +0200
+comments: true
+categories:
+---
+Hello,
+
+Issue 53 of the HockeyStick Weekly, with 5 must reads on Growth, Startups and SaaS. In this issue, I'm focussing on _product managment_, a topic lot's of my clients have issues with.
+
+## The Dribbblisation of Design
+Exellent article on (Product) Design by the @intercom folks. This article talks about Product Architecture, about 4 layers of design and about the _job to be done_ concept. Must read for every (SaaS) product manager.
+
+Full article: https://medium.com/@intercom/the-dribbblisation-of-design-406422ccb026
+<hr>
+## Love what you build. Build what you love.
+This article offers 10 tips for software product managers. First tip: "own the story", you, as a PM, should be a master story teller. For the other 9 tips, I urge you to read the article.
+
+Full article: https://medium.com/@apitt24/love-what-you-build-build-what-you-love-9cedbb05e32f
+
+<hr>
+## We Don’t Sell Saddles Here
+This article is actually a memo that the team of Slack received, 2 weeks before launching Slack. Whenever I have a discussion about what it means to be a SaaS business, I refer to this article. Although you could see Slack as an enterprise chat thingy, the team looks at itself as something much bigger.
+
+Full article: https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d
+<hr>
+## Organizational Debt is like Technical debt – but worse
+Interesting read from Steve Blank about organizational growing pains. As a small startup, you can get away with "just enough process", but once you start growing and hiring like mad, you'll need structure.
+
+Full article: http://steveblank.com/2015/05/19/organizational-debt-is-like-technical-debt-but-worse/
+<hr>
+## The Psychology of Pricing: A Gigantic List Of Strategies
+The title says it all: this article explains you in detail why you should use $9.99 instead of $10, and tons of other tactics to use when it comes to pricing.
+
+Full article: http://www.nickkolenda.com/psychological-pricing-strategies/
+<hr>
+
+That's it for this week, so you soon!
+
+Nick.
