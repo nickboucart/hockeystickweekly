@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Issue 55: The Secrets Behind a $5M+ Per Day Mobile Game (Clash of Clans)"
+date: 2015-09-14 13:39:38 +0200
+comments: true
+categories:
+---
+Hi there,
+
+After a long holiday, the Hockey Stick Weekly is back for a new season. Each week, we'll send you 5-6 must read articles for SaaS and startup entrepreneurs.
+
+
+## What Are Some Pivotal Moments that Every Successful Saas Company Has?
+Someone asked this question on Quora, and as is often the case at Quora, the answers are full of insights. I can personally testify that having your first paying customer is a pivotal moment, having your first 10 unaffiliated customers is really a milestone.
+
+Full article: http://www.quora.com/What-are-some-pivotal-moments-that-every-successful-SaaS-company-has
+<hr>
+## Create a Retention Curve with Mixpanel and Google Sheets
+Super hands-on article on how to leverage your Mixpanel cohort data. Cohort analysis is a fundamental tool when it comes to fighting churn (and we all hate churn, aren't we). Plotting your data in a retention curve is so much more meaningful than staring at the raw numbers.
+
+Full article: https://robots.thoughtbot.com/create-a-retention-curve-with-mixpanel-and-google-sheets
+<hr>
+## The Secrets Behind a $5M+ Per Day Mobile Game (Clash of Clans)
+Really lengthy article that discusses how the makers of Clash of Clans manage to build a game experience that earns them $5M per day in revenue. The article talks about the strong core loop of the game, their carefully planned launches, the smooth onboarding etc. For me, this article also proves how tough it is build a winning mobile game. (Disclaime, I have a 10 year old at home that is pretty addicted to Clash)
+
+Full article: http://www.natedesmond.com/clash-of-clans
+<hr>
+## Zero to One Million: an SEO Blueprint
+Everybody wants traffic, don't we? This long article goes in great detail on how to build up an SEO campaign, from understanding the position of your competitors, to _parasite SEO_ and keyword research.
+
+Full article: http://www.matthewbarby.com/seo-campaign-blueprint
+<hr>
+## How to Start a Growth Team
+Interesting lessons learned article from the Yahoo Growth and Emerging Products team. I particularly like their number one before-you-start question: Is your product ready for growth?  
+
+Full article: https://medium.com/android-news/how-to-start-a-growth-team-ff70cd29c0f2
+
+That's it, see you next week.
+
+Nick.
