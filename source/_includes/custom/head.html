@@ -1,5 +1,5 @@
 {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
-    <meta name="description" content="HockeyStickWeekly, your weekly dose of inspiration for growth, Cloud, SaaS and Tech Entrepreneurship, delivered straight to your inbox. You focus on running your business, we focus on bringing you">
+    <meta name="description" content="Hockey Stick Weekly {{page.title}}">
     <meta name="author" content="@nickboucart">
 
     <link rel="author" href="https://www.google.com/+NickBoucart"/>
@@ -8,10 +8,13 @@
       href="{{site.url}}/feed.xml">
     <meta property="og:type"  content="website">
     <meta property="og:url"   content="{{canonical}}">
+    <meta name="og:description" content="HSW {{page.title}}">
+    <meta name="og:image" content="{{ site.url }}/images/logo-hsw-2.jpg"/>
     <meta name="twitter:card" content="summary">
     <meta name="twitter:url"  content="{{canonical}}">
     <meta name="twitter:title"  content="{{page.title}}">
     <meta name="twitter:description" content="HSW {{page.title}}">
+    <meta name="twitter:image" content="{{ site.url }}/images/logo-hsw-2.jpg"/>
     <link rel="canonical" href="{{canonical}}">
 
 <link href="{{ root_url }}/assets/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
