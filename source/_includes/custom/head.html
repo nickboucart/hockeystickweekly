@@ -1,4 +1,5 @@
-       <meta name="description" content="HockeyStickWeekly, your weekly dose of inspiration for growth, Cloud, SaaS and Tech Entrepreneurship, delivered straight to your inbox. You focus on running your business, we focus on bringing you">
+{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+    <meta name="description" content="HockeyStickWeekly, your weekly dose of inspiration for growth, Cloud, SaaS and Tech Entrepreneurship, delivered straight to your inbox. You focus on running your business, we focus on bringing you">
     <meta name="author" content="@nickboucart">
 
     <link rel="author" href="https://www.google.com/+NickBoucart"/>
@@ -6,12 +7,12 @@
     <link rel="alternate" type="application/rss+xml" title="RSS"
       href="{{site.url}}/feed.xml">
     <meta property="og:type"  content="website">
-    <meta property="og:url"   content="{{site.url}}">
+    <meta property="og:url"   content="{{canonical}}">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url"  content="{{site.url}}">
-    <meta name="twitter:title"  content="Hockey Stick Weekly, your dose of inspiration for Growth, Cloud, SaaS and Tech Entrepreneurs">
-    <meta name="twitter:description" content="Subscribe now for our free weekly newsletter full of inspiration for #growth, #cloud, #saas and #leanstartup.">
-    <link rel="canonical" href="{{site.url}}">
+    <meta name="twitter:url"  content="{{canonical}}">
+    <meta name="twitter:title"  content="{{page.title}}">
+    <meta name="twitter:description" content="HSW {{page.title}}">
+    <link rel="canonical" href="{{canonical}}">
 
 <link href="{{ root_url }}/assets/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="{{ root_url }}/assets/bootstrap/dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
