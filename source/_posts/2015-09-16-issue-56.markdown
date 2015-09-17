@@ -1,0 +1,15 @@
+---
+layout: newsletter
+title: "Issue 56: "
+date: 2015-09-16 13:41:07 +0200
+comments: true
+published: false
+categories:
+links:
+  - url: https://engineering.pinterest.com/blog/how-acquire-mobile-users-through-growth-engineering
+    title: How to Acquire Mobile Users Through Growth Engineering
+    description: "Detailed article from the engineers of Pintrest. This article gives you an idea how to choose your _One Metric that Matters_, in the case of Pintrest this metrics was engaged pinners, because sometimes optimizing for one metric has a negative impact on others."
+  - url: http://google.com
+    title: toeleloekes
+    description: "Amai wat een geweldig artikel is dit"  
+---

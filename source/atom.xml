@@ -1,5 +1,7 @@
 ---
-layout: nil
+sitemap:
+  priority: 0.7
+  changefreq: 'weekly'
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -21,7 +23,11 @@ layout: nil
     <link href="{{ site.url }}{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{ site.url }}{{ post.id }}</id>
-    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
+    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}
+      {% for link in post.links %}
+       {% include link_in_newsletter.html link=link medium="Email"%}
+      {% endfor%}
+      ]]></content>
   </entry>
   {% endfor %}
 </feed>
