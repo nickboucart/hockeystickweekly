@@ -7,7 +7,7 @@ require "stringex"
 ssh_user       = "root@sirris.denbot.co"
 ssh_port       = "22"
 document_root  = "/usr/local/nginx/html/hockeystickweekly.com"
-rsync_delete   = false
+rsync_delete   = true
 rsync_args     = ""  # Any extra arguments to pass to rsync
 deploy_default = "push"
 
