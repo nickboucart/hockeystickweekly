@@ -9,7 +9,7 @@ links:
   - url: https://engineering.pinterest.com/blog/how-acquire-mobile-users-through-growth-engineering
     title: How to Acquire Mobile Users Through Growth Engineering
     description: "Detailed article from the engineers of Pintrest. This article gives you an idea how to choose your _One Metric that Matters_, in the case of Pintrest this metrics was engaged pinners, because sometimes optimizing for one metric has a negative impact on others."
-  - url: http://google.com
-    title: toeleloekes
-    description: "Amai wat een geweldig artikel is dit"  
+  - url: http://blog.ghost.org/content-apps/
+    title: The Apps It Takes To Run A Content Marketing Machine
+    description: "If you are a tiny bit serious about content marketing, you'll know that it takes a lot of effort: you need to do your research, write your articles, format them nicely for the blog, add rich media and imagery, publish and promote the articles. In this long post, a number of content marketeers share the tools they use, because life's simply too short to be typing html manually ;)"  
 ---
