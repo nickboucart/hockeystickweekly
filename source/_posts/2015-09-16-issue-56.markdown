@@ -11,5 +11,9 @@ links:
     description: "Detailed article from the engineers of Pintrest. This article gives you an idea how to choose your _One Metric that Matters_, in the case of Pintrest this metrics was engaged pinners, because sometimes optimizing for one metric has a negative impact on others."
   - url: http://blog.ghost.org/content-apps/
     title: The Apps It Takes To Run A Content Marketing Machine
-    description: "If you are a tiny bit serious about content marketing, you'll know that it takes a lot of effort: you need to do your research, write your articles, format them nicely for the blog, add rich media and imagery, publish and promote the articles. In this long post, a number of content marketeers share the tools they use, because life's simply too short to be typing html manually ;)"  
+    description: "If you are a tiny bit serious about content marketing, you'll know that it takes a lot of effort: you need to do your research, write your articles, format them nicely for the blog, add rich media and imagery, publish and promote the articles. In this long post, a number of content marketeers share the tools they use, because life's simply too short to be typing html manually ;)"
+  - url: http://firstround.com/review/the-simple-rules-that-could-transform-how-you-launch-your-product/
+    title: "The Simple Rules That Could Transform How You Launch Your Product"
+    description: "Long article full of tips for when you launch your next product. I particularly liked the part about naming your product, make it as simple as possible, and as close as possible to what the product actually does. Other tips include: don't launch on Product Hunt on July 4th and make sure you have your analytics and metrics ready. "
+
 ---
