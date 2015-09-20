@@ -1,9 +1,9 @@
 ---
 layout: newsletter
-title: "Issue 56: "
+title: "Issue 56: Growth Stories from Pintrest, Ghost and Statuspages.io"
 date: 2015-09-16 13:41:07 +0200
 comments: true
-published: false
+published: true
 categories:
 links:
   - url: https://engineering.pinterest.com/blog/how-acquire-mobile-users-through-growth-engineering
@@ -12,8 +12,17 @@ links:
   - url: http://blog.ghost.org/content-apps/
     title: The Apps It Takes To Run A Content Marketing Machine
     description: "If you are a tiny bit serious about content marketing, you'll know that it takes a lot of effort: you need to do your research, write your articles, format them nicely for the blog, add rich media and imagery, publish and promote the articles. In this long post, a number of content marketeers share the tools they use, because life's simply too short to be typing html manually ;)"
+  - url: https://blog.bufferapp.com/content-promotion-strategy
+    title: How to Promote Every Piece of Content You Create (in Less Than an Hour a Day!)
+    description: "Now that you know how to create your content, read this article on how to promote your content. 5 simple tips that make a lot of sense to me."
   - url: http://firstround.com/review/the-simple-rules-that-could-transform-how-you-launch-your-product/
     title: "The Simple Rules That Could Transform How You Launch Your Product"
-    description: "Long article full of tips for when you launch your next product. I particularly liked the part about naming your product, make it as simple as possible, and as close as possible to what the product actually does. Other tips include: don't launch on Product Hunt on July 4th and make sure you have your analytics and metrics ready. "
-
+    description: "Long article full of tips for when you launch your next product. I particularly liked the part about naming your product, make it as simple as possible, and as close as possible to what the product actually does. Other tips include: don't launch on Product Hunt on July 4th and make sure you have your analytics and metrics ready."
+  - url: http://blog.statuspage.io/we-owe-25-of-our-growth-to-one-line-of-code
+    title: We Owe 25% Of Our Growth To One Line Of Code
+    description: "Ïnsteresting article form statuspage.io. Their little footer 'Powered by statuspage.io', a single line of code, gets them tons of new customers. In this blog post, they explain why that is."
+  - url: http://www.livechatinc.com/blog/crisis-management/
+    title: Crisis Management 101 - 6 Methods to Defuse a Disaster
+    description: "Interesting article from livechat.com on how they deal with disasters, you know, things like DDOS attact. This is the kind of stuff that might ruin your startup, if you don't handle it well."
 ---
+This week I have stories about mobile growth by Pintrest and 2 stories content marketeers will like the articles on tools for content machines and promo.
