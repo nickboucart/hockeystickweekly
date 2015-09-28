@@ -1,0 +1,28 @@
+---
+layout: newsletter
+title: "issue 57: MVP's, all the growth hacks you should know and SaaS product managment."
+date: 2015-09-28 22:03:05 +0200
+comments: true
+published: true
+categories:
+links:
+  - url: http://www.erickarjaluoto.com/blog/you-keep-using-that-word-mvp
+    title: You keep using that word MVP…
+    description: "An article I wish I wrote it, because it's exactly how I look at MVP's in my own work and coaching of founders. An MVP is an iteration, a test to see if your assumptions about a customer problem and your idea of a solution for that problem really resonate with customers. No single MVP will ever automagically become a multi billion business, I hope that articles like this will help that myth out of the world."
+  - url: https://www.cbinsights.com/blog/saas-marketing-stack/
+    title: The Marketing Stack of a Lazy SaaS Company
+    description: "As a SaaS company, you're continuously on the lookout to land new customers at an acceptable acquisition cost. This article from CB Insights describes the tools and tricks they use to get prospects in."
+  - url: https://blog.ahrefs.com/growth-hacking
+    title: The Complete List of Famous Growth Hacks That Every Startup Needs To Know
+    description: "An interesting and very long list of growth hacks. From the _Fake it Hack_ to the _Reminder hack_, they are all there. One word of warning though: it's not because a certain hack worked for one company, that it will automatically work for you."
+  - url: http://blog.profitwell.com/3-nefarious-tactics-saas-companies-are-using-to-reduce-churn
+    title: "3 Nefarious Tactics SaaS Companies are Using to Reduce Churn"
+    description: "Some growth hacks from the Dark Side. 3 examples of really bad things to do to fight churn. I'm definitely not recommending these, nor is the author of the article."
+  - url: https://blog.kissmetrics.com/content-hub
+    title: Why a Content Hub is Your All-Powerful Media Magnet
+    description: "By now, everybody is doing content marketing, aren't they? This means your content marketing team is fighting for the attention of users. This article by Kissmetrics describes how creating a _content hub_ can help you. A content hub is a destination where website visitors can find branded, curated, social media, user generated, or any type of content related to a topic."
+  - url: https://blog.intercom.io/talk-product-strategy-with-massive-impact/
+    title: Product Strategy With Massive Impact
+    description: "Super interesting video about product management at high growth software companies by Intercom. One of the takeaways: fight feature creep on a daily basis."
+---
+This week I have some links for you on product management of high growth software companies, a whole catalogue of growth hacks and a down to earth article about MVP's.
