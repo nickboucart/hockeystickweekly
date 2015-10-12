@@ -1,0 +1,25 @@
+---
+layout: newsletter
+title: "Issue 59: "
+date: 2015-10-08 13:31:40 +0200
+comments: true
+published: true
+categories:
+links:
+  - url: http://sixteenventures.com/saas-metrics-customer-definition
+    title: Your SaaS Metrics Are Wrong if You Include These Customers
+    description: "A bit of an advanced blog post, I have to admit, but one I can truly relate to. [Lincoln Murphy](http://twitter.com/lincolnmurphy) discusses churn, and illustrates that you shouldn't be fooling yourselves by taking into account customers that can't churn or too early customers into your churn calculations. His simple number examples illustrate how a churn rate of 10% becomes one of 14% if you calculate it properly."
+  - url: http://blog.pipetop.com/jumpstart-technique
+    title: "Our First Post Got 12k Views – This Is The Dead Simple Formula"
+    description: "Really long and detailed article on how to kickstart your content marketing efforts. Your first blog post should be epic, and generate a significant amount of traction. This article by [@jmarovt](https://twitter.com/jmarovt) goes through how to test, once and for all, if content marketing is a viable option for your business."
+  - url: http://steveblank.com/2015/09/09/hacking-a-corporate-culture-stories-heroes-and-rituals-in-startups-and-companies/
+    title: "Hacking a Corporate Culture - Stories, Heroes and Rituals in Startups and Companies"
+    description: "In this article [Steve Blank](https://twitter.com/sgblank) discusses the impact of corporate culture on innovation and startup success. Main lesson: if you are a growing startup, you not only need to invest in building a product or service, you need to develop a corporate culture for your team as well."
+  - url: https://blog.kissmetrics.com/tailor-your-website/
+    title: "Forget Generic – Target Individual Users by Tailoring Your Website"
+    description: "Interesting article by [@kissmetrics](https://twitter.com/kissmetrics). Why show the same website to all visitors? Why not adapt and personalize your website based on sociodemographics?"
+  - url: http://cruelestoptouts.tumblr.com/
+    title: The Cruelest Opt-Out Forms
+    description: "Using the right copy is super important. This tumblr shows lots and lots of examples of opt-out messages seen on email subscription forms. I'm sure you'll find them both funny and inspirational."
+---
+This week, I have stories for you on SaaS startups, on how to kickstart your content marketing efforts with an epic first blog post and the funniest opt-out messages you have ever seen.
