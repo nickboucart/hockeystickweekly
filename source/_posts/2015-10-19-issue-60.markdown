@@ -1,0 +1,25 @@
+---
+layout: newsletter
+title: "Issue 60: Surprising A/B tests and Digital Bribes."
+date: 2015-10-19 19:49:07 +0200
+comments: true
+published: true
+categories:
+links:
+  - url: http://nathanbarry.com/30k/
+    title: Growing Convertkit to $30,000 in Monthly Recurring Revenue
+    description: "An honest startup report on how Converkit when from a failed SaaS product to a $30,000 MRR startup. This _overnight_ success was the result of hard work, a rollercoaster ride and lot's and lot's of hard work again."
+  - url: http://datastories.com/gallery/case-blogs
+    title: "Analyzing scraped data from 6 giant blogs with confirmed 100,000+ subscribers"
+    description: "What would happen if you let a data scientist loose on years of blogging data from 6 top blogs? You get a long article revealing tons of tips and best practices when it comes to blogging, from ideal time to post (not in weekends) to ideas on how the length of head lines influences social shares. "
+  - url: http://firstround.com/review/lessons-from-the-woman-who-built-squarespaces-customer-care-team-from-1-to-370/
+    title: "Lessons from the Woman Who Built Squarespace’s Customer Care Team from 1 to 184"
+    description: "Warning: long read ahead! This article is full of valuable tips, lessons and stories on customer support. Customer support is an extremely important part of your service, this is where you can really win, or loose the harts of your customers. You better do it right. "
+  - url: http://unbounce.com/a-b-testing/surprising-a-b-test-results
+    title: "5 Surprising A/B Test Results from Ridiculously Successful Entrepreneurs"
+    description: "A number of war stories from A/B tests that revealed surprising results, from download buttons in plain text to _buggy_ javascript that turned out to increase conversions."
+  - url: https://www.holler.com/lead-magnet-bible
+    title: "The Lead Magnet Bible: 29 Killer Bribes To Grow Your Email List"
+    description: "A lead magnet is an offer of an informational resource that's provided in exchange for an individual's contact information. They are created for the sole purpose of converting anonymous visitors to your website into leads. This blog post describes 29 different bribes, from white papers and webinars to e-books and drip email courses."
+---
+This week I have a mix of different stories: an article by Unbounce on surprising A/B tests, a data scientist explaining why blogs are successful and long article on online bribes. Enjoy.
