@@ -1,0 +1,27 @@
+---
+layout: newsletter
+title: "Issue 61: Meaningful Metrics, Losing Traffic and Organizing for Growth"
+date: 2015-10-26 15:08:53 +0100
+comments: true
+published: true
+categories:
+links:
+  - url: https://blog.bufferapp.com/lost-traffic
+    title: We’ve Lost Nearly Half Our Social Referral Traffic in the Last 12 Months
+    description: "They folks over at [Buffer](http://bufferapp.com) often talk openly about the stuff they are doing and how it works out for them. This article is once again such a public display of lessons learned. Apparently, Buffer lost nearly half it's social referral traffic in just 12 Months time, and they have no clue how that happened. Fascinating read on what they think are the root causes for this loss of traffic and the experiments they will do to improve."
+  - url: https://blog.kissmetrics.com/microsofts-900-million-mistake
+    title: "What Microsoft’s $900 Million Mistake Can Teach You About Marketing Messaging"
+    description: "Interesting article that once again illustrates how you as a startup should talk about the problems you're trying to solve, not the cool features you're selling. If companies as big as Microsoft have to obey this rule, despite ginormous budgets, than you definitely should."
+  - url: http://firstround.com/review/expensifys-ceo-on-the-tactics-that-doubled-its-customer-base-in-just-six-months/
+    title: "Expensify’s CEO on the Tactics that Doubled its Customer Base in Just Six Months"
+    description: "In this long article, a number of myths about customer acquisition are busted, or at least countered in a atypical way. I particularly liked the idea that one builds a SaaS business on the belief that customer acquisition efficiency is its most strategic differentiation. In other words: competitors might have better products and more growth, as long as we attract customers cheaper, we'll win."
+  - url: https://medium.com/swlh/how-do-you-choose-the-best-growth-team-model-632ad5a85be9
+    title: "How Do You Choose the Best Growth Team Model?"
+    description: "How do you organize for growth? Do you have an independent growth team that works along side your engineers, or do you embed growth into all exisitng teams? This article discusses pro's and con's of each model and wraps up with idea that you shouldn't select for growth, but instead select for which model best fits your DNA."
+  - url: http://blog.mention.com/content-marketing-analytics
+    title: "How to Get Serious About Content Marketing Analytics"
+    description: "If you're doing content marketing, I bet you are watching your Google Analytics closely. You'll know metrics like page views or monthly uniques by hart. But are those meaningful metrics? What if you were to track _total attention minutes_? This article surely will get you thinking plus gives you hands-on tips on how to implement these new metrics."
+---
+Hawdy,
+
+This week you'll learn what to do when you loose half of your social traffic, you'll get some ideas on how to start a growth team and learn the look for meaningful metrics.
