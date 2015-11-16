@@ -1,0 +1,29 @@
+---
+layout: newsletter
+title: "Issue 62: Reducing Churn, Buffer's Marketing Manifesto and Exodus - Problem/solution Fit."
+date: 2015-11-16 18:37:06 +0100
+comments: true
+published: true
+categories:
+links:
+  - url: http://blog.profitwell.com/how-to-reduce-churn-by-building-a-bulletproof-retention-process
+    title: How to reduce Churn by building a bulletproof retention process
+    description: "Churn kills SaaS businesses. This article shows some simple but effective tactics you can use to fight churn: defining goals, asking the right questions and experimenting based on hypothesis, it's all there."
+  - url: https://blog.bufferapp.com/marketing
+    title: "Buffer’s Marketing Manifesto in 500 Words"
+    description: "Must read for every content marketeer. It's only 500 words, no need to make a summary here ;) "
+  - url: https://medium.com/@sampurtill/how-we-sold-our-startup-in-30-days-463b09efff68
+    title: "How We Sold Our Startup in 30 Days"
+    description: "Very detailed report on how ClassOwl sold their business in 30 days. I'm not sure how reproducible such a scenario is outside of the valley (I'm pretty sure this won't happen like that in Belgium, if you do know cases in Belgium/Europe, I'm happy to hear from you.)"
+  - url: https://medium.com/swlh/exploring-the-product-design-of-the-stripe-dashboard-for-iphone-e54e14f3d87e
+    title: "Exploring the Product Design of the Stripe Dashboard for iPhone"
+    description: "Detailed article for design fans: this article describes the thinking process the people at Stripe went through when designing their mobile app."
+  - url: http://www.slideshare.net/omohout/exodus-problem-solution
+    title: "Startup Master Class II - Exodus - Problem/Solution Stage "
+    description: "The second installment in the Startup Master Class by [@omohout](https://twitter.com/omohout). If you're a startup, and you're wondering of you should pursue that idea you have, I strongly encourage you to check out this slide doc."
+---
+Hello,
+
+This week, I have some stuff on churn, some design inspiration from Stripe and a new slide doc by my colleague Omar.
+
+As always and enjoy. Oh, and if you do, spread the word!!
